@@ -1,0 +1,7 @@
+@hooks
+Feature: Some new feature
+
+  Scenario: The application can do X
+    Given Some pre steps
+    When A thing happens
+    Then Another thing should happen

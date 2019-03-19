@@ -1,0 +1,11 @@
+Given("Some pre steps") do
+  pending
+end
+
+When("A thing happens") do
+  pending
+end
+
+Given("Another thing should happen") do
+  pending
+end
